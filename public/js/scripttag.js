@@ -1,0 +1,1 @@
+alert("STORE FRONT CHECK");
